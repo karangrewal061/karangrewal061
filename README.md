@@ -18,11 +18,10 @@
 ## 🛠️ Skills
 
 ### 📌 Technical Skills
-- Microsoft Excel (Pivot Tables, VLOOKUP/XLOOKUP, Data Analysis)
-- SQL (Basic Queries & Data Handling)
+- Microsoft Excel 
+- SQL 
 - Power BI
 - Tableau
-- Financial Data Analysis
 - Data Visualization
 
 ### 📌 Soft Skills
